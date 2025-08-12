@@ -1822,6 +1822,24 @@
         }
       }
     },
+    "PELRry1vqjBzSAlr": {
+      "actor": "modules/pf2e-tokens-myth-and-magic/assets/portraits/pzo2110_lich-horde.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-myth-and-magic/assets/tokens/pzo2110_lich-horde.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-myth-and-magic/assets/subjects/pzo2110_lich-horde.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
     "4nqv3ZwJGjnmic8j": {
       "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/aquatic/kraken.webp",
       "token": {
@@ -1852,6 +1870,24 @@
           "enabled": true,
           "subject": {
             "texture": "modules/pf2e-tokens-npc-core/assets/subjects/deific-champion-of-iomedae.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "CP6iRfHdyFWniTHY": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/undead/zombie-hulk.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/undead/zombie-hulk.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-bestiaries/subjects/undead/zombie-hulk.webp",
             "scale": 2
           }
         }

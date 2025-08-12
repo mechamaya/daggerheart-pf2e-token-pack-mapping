@@ -1,5 +1,8 @@
 # Daggerheart PF2e Token Pack Mapping
 
+## v0.11.0
+- Added Fallen Sorcerer and Perfected Zombie mapping
+
 ## v0.10.0
 - Added Stag Knight and Minor Chaos Elemental mapping
 
