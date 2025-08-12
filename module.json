@@ -1,54 +1,66 @@
 {
-    "id": "daggerheart-pf2e-token-pack-mapping",
-    "title": "Daggerheart PF2e Token Pack Mapping",
-    "version": "0.9.0",
-    "compatibility": {
-        "minimum": "13",
-        "verified": "13"
-    },
-    "authors": [
-        {
-            "discord": "mechamaya",
-            "url": "https://github.com/mechamaya"
+  "id": "daggerheart-pf2e-token-pack-mapping",
+  "title": "Daggerheart PF2e Token Pack Mapping",
+  "version": "0.9.0",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "daggerheart",
+        "type": "system",
+        "compatibility": {
+          "minimum": "1.0.0",
+          "verified": "1.0.1"
         }
+      }
     ],
-    "relationships": {
-        "systems": [
-            {
-                "id": "daggerheart",
-                "type": "system",
-                "compatibility": {
-                    "minimum": "1.0.0",
-                    "verified": "1.0.1"
-                }
-            }
-        ],
-        "requires": [
-            {
-                "id": "pf2e-tokens-bestiaries",
-                "type": "module",
-                "compatibility": {}
-            }
-        ]
-    },
-    "media": [
-        {
-            "type": "setup",
-            "caption": "Token Pack Mapping"
-        }
-    ],
-    "flags": {
-        "compendiumArtMappings": {
-            "daggerheart": {
-                "mapping": "modules/daggerheart-pf2e-token-pack-mapping/mapping.json",
-                "credit": "<em>Portrait and token artwork by Paizo.</em>"
-            }
-        }
-    },
-    "manifest": "https://github.com/mechamaya/daggerheart-pf2e-token-pack-mapping/releases/latest/download/module.json",
-    "download": "https://github.com/mechamaya/daggerheart-pf2e-token-pack-mapping/releases/download/1.2.1/module.zip",
-    "readme": "https://github.com/mechamaya/daggerheart-pf2e-token-pack-mapping/blob/main/README.md",
-    "url": "https://github.com/mechamaya/daggerheart-pf2e-token-pack-mapping",
-    "bugs": "https://github.com/mechamaya/daggerheart-pf2e-token-pack-mapping/issues",
-    "changelog": "https://github.com/mechamaya/daggerheart-pf2e-token-pack-mapping/blob/main/CHANGELOG.md"
+    "recommends": [
+      {
+        "id": "pf2e-tokens-bestiaries",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "pf2e-tokens-npc-core",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "pf2e-tokens-myth-and-magic",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "pf2e-tokens-characters",
+        "type": "module",
+        "compatibility": {}
+      }
+    ]
+  },
+  "media": [
+    {
+      "type": "setup",
+      "caption": "Token Pack Mapping",
+      "loop": false,
+      "flags": {}
+    }
+  ],
+  "flags": {
+    "compendiumArtMappings": {
+      "daggerheart": {
+        "mapping": "modules/daggerheart-pf2e-token-pack-mapping/mapping.json",
+        "credit": "<em>Portrait and token artwork by Paizo.</em>"
+      }
+    }
+  },
+  "manifest": "https://github.com/mechamaya/daggerheart-pf2e-token-pack-mapping/releases/latest/download/module.json",
+  "download": "https://github.com/mechamaya/daggerheart-pf2e-token-pack-mapping/releases/download/0.9.0/module.zip",
+  "readme": "https://github.com/mechamaya/daggerheart-pf2e-token-pack-mapping/blob/main/README.md",
+  "url": "https://github.com/mechamaya/daggerheart-pf2e-token-pack-mapping",
+  "bugs": "https://github.com/mechamaya/daggerheart-pf2e-token-pack-mapping/issues",
+  "changelog": "https://github.com/mechamaya/daggerheart-pf2e-token-pack-mapping/blob/main/CHANGELOG.md",
+  "description": ""
 }
