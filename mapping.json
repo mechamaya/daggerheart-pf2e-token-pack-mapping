@@ -268,18 +268,18 @@
       }
     },
     "uRtghKE9mHlII4rs": {
-      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/orc-veteran.webp",
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/matanji-veteran.webp",
       "token": {
         "randomImg": false,
         "texture": {
-          "src": "modules/pf2e-tokens-monster-core/assets/tokens/orc-veteran.webp",
+          "src": "modules/pf2e-tokens-characters/assets/tokens/matanji-veteran.webp",
           "scaleX": 1,
           "scaleY": 1
         },
         "ring": {
           "enabled": true,
           "subject": {
-            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/orc-veteran.webp",
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/matanji-veteran.webp",
             "scale": 1
           }
         }
