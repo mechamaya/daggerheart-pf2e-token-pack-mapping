@@ -438,6 +438,24 @@
         }
       }
     },
+    "sRn4bqerfARvhgSV": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/planar/astral/ioton.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/planar/astral/ioton.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-bestiaries/subjects/planar/astral/ioton.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
     "3tqCjDwJAQ7JKqMb": {
       "actor": "modules/pf2e-tokens-bestiaries/portraits/fiendish/demon/babau.webp",
       "token": {
@@ -1673,6 +1691,24 @@
           "subject": {
             "texture": "modules/pf2e-tokens-bestiaries/subjects/plant/arboreal/arboreal-archive.webp",
             "scale": 1.5
+          }
+        }
+      }
+    },
+    "KGVwnLq85ywP9xvB": {
+      "actor": "modules/pf2e-tokens-myth-and-magic/assets/portraits/pzo9267_stag-archon.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-myth-and-magic/assets/tokens/pzo9267_stag-archon.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-myth-and-magic/assets/subjects/pzo9267_stag-archon.webp",
+            "scale": 2
           }
         }
       }
