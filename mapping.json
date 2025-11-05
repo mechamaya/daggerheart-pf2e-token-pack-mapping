@@ -550,14 +550,14 @@
       "token": {
         "texture": {
           "src": "modules/pf2e-tokens-characters/assets/tokens/bloodcove-free-captain.webp",
-          "scaleX": 2,
-          "scaleY": 2
+          "scaleX": 1,
+          "scaleY": 1
         },
         "ring": {
           "enabled": true,
           "subject": {
             "texture": "modules/pf2e-tokens-characters/assets/subjects/bloodcove-free-captain.webp",
-            "scale": 2
+            "scale": 1
           }
         }
       }
@@ -958,14 +958,14 @@
       "token": {
         "texture": {
           "src": "modules/pf2e-tokens-characters/assets/tokens/daggermark-poisoner.webp",
-          "scaleX": 2,
-          "scaleY": 2
+          "scaleX": 1,
+          "scaleY": 1
         },
         "ring": {
           "enabled": true,
           "subject": {
             "texture": "modules/pf2e-tokens-characters/assets/subjects/daggermark-poisoner.webp",
-            "scale": 2
+            "scale": 1
           }
         }
       }
@@ -1061,14 +1061,14 @@
       "token": {
         "texture": {
           "src": "modules/pf2e-tokens-characters/assets/tokens/gmg-cultist-human.webp",
-          "scaleX": 2,
-          "scaleY": 2
+          "scaleX": 1,
+          "scaleY": 1
         },
         "ring": {
           "enabled": true,
           "subject": {
             "texture": "modules/pf2e-tokens-characters/assets/subjects/gmg-cultist-human.webp",
-            "scale": 2
+            "scale": 1
           }
         }
       }
@@ -1291,14 +1291,14 @@
       "token": {
         "texture": {
           "src": "modules/pf2e-tokens-characters/assets/tokens/red-mantis-assassin.webp",
-          "scaleX": 2,
-          "scaleY": 2
+          "scaleX": 1,
+          "scaleY": 1
         },
         "ring": {
           "enabled": true,
           "subject": {
             "texture": "modules/pf2e-tokens-characters/assets/subjects/red-mantis-assassin.webp",
-            "scale": 2
+            "scale": 1
           }
         }
       }
