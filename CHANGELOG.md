@@ -1,5 +1,8 @@
 # Daggerheart PF2e Token Pack Mapping
 
+## v0.11.1
+- Fixed a few tokens having incorrect scaling
+
 ## v0.11.0
 - Added Fallen Sorcerer and Perfected Zombie mapping
 
